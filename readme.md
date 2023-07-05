@@ -1,0 +1,27 @@
+Create a .env file in the root dirctory and configure the below given values . There is also a env example file included in the src directory for further reference if needed.
+
+// DATABASE CONFIG //
+
+USER=YOUR DATABASE USERNAME
+
+HOST=DATABASE HOST
+
+DATABASE=DATABASE NAME
+
+PASSWORD=DATABASE PASSWORD
+
+DB_PORT=DATABASE PORT
+
+COLUMN_NAME=DATABASE COLUMN NAME
+
+// JENKINS CONFIG //
+
+JENKINS_URL = JENKINS URL
+
+JENKINS_USERNAME =JENKINS USERNAME
+
+JENKINS_TOKEN =JENKINS TOKEN
+
+JENKINS_JOBNAME =JENKINS JOBNAME
+
+PORT=SERVER PORT eg 3000
